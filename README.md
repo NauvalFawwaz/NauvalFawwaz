@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./assets/github-banner.png" width="100%" />
+</div>
+
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0f172a,65:312e81,100:020617&text=NAUVAL%20FAWWAZ&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%20•%20%20COMPUTER%20SCIENCE&descAlignY=57&descSize=14&animation=fadeIn" />
 
