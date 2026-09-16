@@ -1,36 +1,35 @@
 <div align="center">
 
-<br>
-
-# NAUVAL FAWWAZ FADLIAN
-
-### FULL-STACK DEVELOPER · COMPUTER SCIENCE STUDENT
-
-<br>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,30:0F172A,60:1E3A8A,82:2563EB,100:020617&text=NAUVAL%20FAWWAZ&fontColor=F8FAFC&fontSize=52&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20COMPUTER%20SCIENCE%20STUDENT&descAlignY=58&descSize=16&animation=fadeIn"
+/>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=700&height=30&lines=%3E+building+products%2C+systems%2C+and+experiences+_;%3E+turning+ideas+into+working+software+_;%3E+learning.+building.+shipping.+improving+_"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=760&height=40&lines=%3E+building+digital+products+from+ideas+_;%3E+web+%2F+backend+%2F+mobile+%2F+software+_;%3E+learning.+building.+shipping.+improving+_"
     alt="Typing SVG"
   />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/●%20AVAILABLE%20FOR%20OPPORTUNITIES-0D1117?style=flat-square&labelColor=0D1117&color=2563EB"/>
+<img src="https://img.shields.io/badge/●%20AVAILABLE-2563EB?style=flat-square&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/TANGERANG%2C%20INDONESIA-0D1117?style=flat-square&labelColor=0D1117&color=1E293B"/>
+<img src="https://img.shields.io/badge/TANGERANG%2C%20ID-111827?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/BINUSIAN%202030-0D1117?style=flat-square&labelColor=0D1117&color=1E293B"/>
+<img src="https://img.shields.io/badge/BINUSIAN%202030-111827?style=flat-square"/>
 
 <br><br>
 
 <a href="https://nauvalfawwaz.netlify.app/">
   <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="mailto:fawwaznauval20@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CONTACT%20ME-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
@@ -41,7 +40,9 @@ React · Next.js · Laravel · Node.js · Python · Supabase
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=NauvalFawwaz&label=PROFILE%20VIEWS&style=flat-square&color=2563EB"/>
+<img
+  src="https://komarev.com/ghpvc/?username=NauvalFawwaz&label=PROFILE%20VIEWS&style=flat-square&color=2563EB"
+/>
 
 <br><br>
 
@@ -49,52 +50,74 @@ React · Next.js · Laravel · Node.js · Python · Supabase
 
 ---
 
-## `01` — ABOUT
+# `01` — ABOUT
 
 ### Building things that are useful, clean, and actually work.
 
 I'm **Nauval Fawwaz**, a Full-Stack Developer and Computer Science student at **BINUS University**.
 
-I started programming during junior high school, continued through **Software Engineering** in high school, and now spend most of my time exploring full-stack development, backend systems, mobile development, and software engineering.
+I started exploring programming during junior high school and continued focusing on **Software Engineering** in high school.
+
+Today, I spend most of my time building and exploring web applications, backend systems, mobile development, developer tools, and software engineering.
 
 I enjoy taking an idea from:
 
 ```text
-idea  →  design  →  development  →  testing  →  deployment
+idea → design → development → testing → deployment
 ```
 
-and turning it into a real product.
+and turning it into something people can actually use.
 
 <br>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-#### CURRENTLY
+### CURRENTLY
 
 **Computer Science**  
 BINUS University
 
-Exploring software engineering, system design, backend development, and modern web technologies.
+Exploring:
+
+`Software Engineering`
+
+`System Design`
+
+`Backend Development`
+
+`Modern Web Technologies`
 
 </td>
 
 <td width="50%" valign="top">
 
-#### FOCUS
+### FOCUS
 
 **Full-Stack Development**
 
-Frontend · Backend · APIs · Database · Deployment · Mobile
+`Frontend`
+
+`Backend`
+
+`REST API`
+
+`Database`
+
+`Deployment`
+
+`Mobile`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## `02` — STACK
+# `02` — STACK
 
 ### Technologies I use to turn ideas into products.
 
@@ -102,47 +125,47 @@ Frontend · Backend · APIs · Database · Deployment · Mobile
 
 <br>
 
-#### LANGUAGES
+### LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,c,kotlin,dart,lua&theme=dark"/>
 
 <br><br>
 
-#### FRONTEND
+### FRONTEND
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark"/>
 
 <br><br>
 
-`React` &nbsp; `Next.js` &nbsp; `Tailwind CSS` &nbsp; `Bootstrap` &nbsp; `GSAP` &nbsp; `Framer Motion`
+`React` · `Next.js` · `Tailwind CSS` · `Bootstrap` · `GSAP` · `Framer Motion` · `Lenis`
 
 <br><br>
 
-#### BACKEND
+### BACKEND
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask,supabase&theme=dark"/>
 
 <br><br>
 
-`Node.js` &nbsp; `REST API` &nbsp; `Laravel` &nbsp; `Flask` &nbsp; `Supabase`
+`Node.js` · `REST API` · `Laravel` · `Flask` · `Supabase` · `Microsoft Graph` · `MSAL`
 
 <br><br>
 
-#### DATA
+### DATABASE
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark"/>
 
 <br><br>
 
-#### MOBILE
+### MOBILE
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark"/>
 
 <br><br>
 
-#### DEVELOPMENT
+### DEVELOPMENT TOOLS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify,wordpress&theme=dark"/>
 
 <br><br>
 
@@ -150,23 +173,31 @@ Frontend · Backend · APIs · Database · Deployment · Mobile
 
 ---
 
-## `03` — SELECTED WORK
+# `03` — SELECTED WORK
 
 ### A few things I've built.
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### CV Builder
+## CV Builder
 
-**Web-based resume builder**
+**ATS-friendly resume builder**
 
-Create structured, modern, and ATS-friendly CVs with customizable layouts and PDF export.
+A web application for creating modern and structured resumes with customizable layouts and PDF export.
 
 <br>
 
-`React` `Tailwind CSS` `JavaScript`
+**Stack**
+
+`React`
+
+`Tailwind CSS`
+
+`JavaScript`
 
 <br><br>
 
@@ -178,35 +209,51 @@ Create structured, modern, and ATS-friendly CVs with customizable layouts and PD
 
 <td width="50%" valign="top">
 
-### Syncode
+## Syncode
 
 **Collaborative coding tool**
 
-A development tool designed to let multiple users work with files through a shared server environment.
+A development tool designed to allow multiple users to work with files through a shared server environment.
 
 <br>
 
-`Python` `FastAPI` `WebSocket`
+**Stack**
+
+`Python`
+
+`FastAPI`
+
+`WebSocket`
 
 <br><br>
 
 <img src="https://img.shields.io/badge/REAL--TIME%20COLLABORATION-111827?style=flat-square"/>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### School Website
+## School Website
 
 **SMK Harapan Kesehatan Indonesia 3**
 
-Production website built for a real educational institution.
+Production website developed for a real educational institution.
 
 <br>
 
-`Laravel 12` `PHP` `MySQL` `Blade`
+**Stack**
+
+`Laravel 12`
+
+`PHP`
+
+`MySQL`
+
+`Blade`
 
 <br><br>
 
@@ -218,102 +265,141 @@ Production website built for a real educational institution.
 
 <td width="50%" valign="top">
 
-### E-Voting System
+## E-Voting System
 
 **Digital election platform**
 
-Voting system with tokens, candidate management, CSV import, vote counting, and printable voting cards.
+Voting platform with secure tokens, candidate management, CSV import, automatic vote calculation, and printable voting cards.
 
 <br>
 
-`PHP` `MySQL` `JavaScript`
+**Stack**
+
+`PHP`
+
+`MySQL`
+
+`JavaScript`
 
 <br><br>
 
 <img src="https://img.shields.io/badge/FULL--STACK%20PROJECT-111827?style=flat-square"/>
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-## `04` — PROJECT LAB
+# `04` — PROJECT LAB
 
 ### Other things I've experimented with.
 
 ```text
-.
+workspace/
+│
 ├── 📚 Online Library System
-│   ├── book & member management
-│   ├── borrowing & return system
+│   ├── Book Management
+│   ├── Member Management
+│   ├── Borrowing & Returns
 │   └── PHP + MySQL
 │
 ├── 🐍 Flask Library
-│   ├── role-based access
-│   ├── admin / user system
+│   ├── Authentication
+│   ├── Admin / User Roles
+│   ├── Book Management
 │   └── Python + Flask
 │
 ├── 📱 Mobile Development
 │   ├── Flutter
 │   ├── Dart
-│   └── Kotlin
+│   ├── Kotlin
+│   └── Android Studio
 │
 ├── 🎮 Roblox Development
-│   ├── Luau scripting
-│   ├── UI systems
-│   ├── gameplay systems
-│   └── world design
+│   ├── Luau Scripting
+│   ├── UI Systems
+│   ├── Game Systems
+│   └── World Design
 │
 └── 🌐 Web Experiments
-    ├── responsive interfaces
-    ├── animations
-    └── modern frontend development
+    ├── Responsive Interfaces
+    ├── Modern UI
+    ├── Animations
+    └── Deployment
 ```
 
 ---
 
-## `05` — EXPERIENCE
+# `05` — EXPERIENCE
 
-### Beyond writing code.
+### Development isn't the only side of tech I work with.
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-#### IT SUPPORT
+## IT SUPPORT
 
-Worked with real-world hardware, networking, and software troubleshooting.
+Experience working with hardware, operating systems, networking, and technical troubleshooting.
 
-`Windows`  
-`Microsoft Office`  
-`MikroTik`  
-`LAN / WAN`  
-`TCP/IP`  
-`Printer Configuration`  
+<br>
+
+`Windows`
+
+`Microsoft Office`
+
+`MikroTik`
+
+`LAN / WAN`
+
+`TCP/IP`
+
+`Printer Configuration`
+
+`Hardware Troubleshooting`
+
+`Software Troubleshooting`
+
 `PC & Laptop Maintenance`
+
+`CCTV`
 
 </td>
 
 <td width="50%" valign="top">
 
-#### TEACHING & COLLABORATION
+## TEACHING & COLLABORATION
 
-Experience helping others learn development and working together on technical projects.
+Experience helping others learn programming and working together on technical projects.
 
-`HTML`  
-`CSS`  
-`JavaScript`  
-`Programming Basics`  
+<br>
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+`Programming Basics`
+
+`Problem Solving`
+
 `Team Collaboration`
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-## `06` — GITHUB
+# `06` — GITHUB
 
 ### Some numbers behind the code.
 
@@ -342,11 +428,13 @@ Experience helping others learn development and working together on technical pr
 
 ---
 
-## `07` — ACTIVITY
+# `07` — ACTIVITY
 
 ### Building, breaking, fixing, repeating.
 
 <div align="center">
+
+<br>
 
 <img
   width="100%"
@@ -357,7 +445,7 @@ Experience helping others learn development and working together on technical pr
 
 ---
 
-## `08` — NOW
+# `08` — NOW
 
 ### Currently focused on...
 
@@ -370,28 +458,30 @@ Experience helping others learn development and working together on technical pr
 
 + Writing cleaner and maintainable code
 
-+ Creating better UI experiences
++ Creating better user experiences
 
 + Building projects that solve actual problems
 
-+ Shipping instead of overthinking
++ Shipping ideas instead of leaving them unfinished
 ```
 
 ---
 
-## `09` — STATUS
+# `09` — DEVELOPER PROFILE
 
 ```yaml
 nauval:
-  role: Full-Stack Developer
+
+  role:
+    Full-Stack Developer
 
   education:
     Computer Science @ BINUS University
 
-  based_in:
+  location:
     Tangerang, Indonesia
 
-  interested_in:
+  focus:
     - Full-Stack Development
     - Backend Engineering
     - Software Development
@@ -407,16 +497,22 @@ nauval:
     - Opportunities
     - Collaboration
     - Interesting Projects
+
+  philosophy:
+    "Learn → Build → Ship → Improve"
 ```
 
 ---
 
-## `10` — BEYOND THE SCREEN
+# `10` — BEYOND CODE
 
 <table>
+
 <tr>
 
 <td align="center" width="33%">
+
+## 🏸
 
 ### BADMINTON
 
@@ -427,6 +523,8 @@ the keyboard.
 
 <td align="center" width="33%">
 
+## 🎮
+
 ### GAMING
 
 Exploring systems,  
@@ -436,23 +534,30 @@ mechanics, and worlds.
 
 <td align="center" width="33%">
 
+## ⚡
+
 ### TECHNOLOGY
 
-Trying tools and  
-building experiments.
+Trying tools,  
+ideas, and experiments.
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-## `11` — CONNECT
+# `11` — CONNECT
 
 <div align="center">
 
-### Have an idea? Let's turn it into something real.
+<br>
+
+## Have an idea?
+
+### Let's turn it into something real.
 
 <br>
 
@@ -461,13 +566,13 @@ I'm open to opportunities, collaborations, and interesting projects around softw
 <br><br>
 
 <a href="https://nauvalfawwaz.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="mailto:fawwaznauval20@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/SEND%20AN%20EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br><br>
@@ -483,11 +588,18 @@ I'm open to opportunities, collaborations, and interesting projects around softw
 <br>
 
 <sub>
-Thanks for visiting my GitHub.
+Thanks for exploring my GitHub.
 </sub>
 
 <br><br>
 
 **NAUVAL FAWWAZ © 2026**
+
+<br><br>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,35:0F172A,65:1E3A8A,85:2563EB,100:020617"
+/>
 
 </div>
