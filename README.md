@@ -49,7 +49,7 @@ REACT · NEXT.JS · LARAVEL · NODE.JS · PYTHON · SUPABASE
 
 ---
 
-# `01` — ABOUT
+# ABOUT
 
 ### Building things that are useful, clean, and actually work.
 
@@ -116,7 +116,7 @@ Exploring:
 
 ---
 
-# `02` — STACK
+# STACK
 
 ### Technologies I use to build digital products.
 
@@ -172,7 +172,7 @@ Exploring:
 
 ---
 
-# `03` — SELECTED WORK
+# SELECTED WORK
 
 ### A few things I've built.
 
@@ -266,7 +266,7 @@ Voting platform with secure tokens, candidate management, CSV import, automatic 
 
 ---
 
-# `04` — PROJECT LAB
+# PROJECT LAB
 
 ### Other things I've built and experimented with.
 
@@ -306,7 +306,7 @@ workspace/
 
 ---
 
-# `05` — EXPERIENCE
+# EXPERIENCE
 
 ### More than just writing code.
 
@@ -372,7 +372,7 @@ Experience helping others learn development and working together on technical pr
 
 ---
 
-# `06` — GITHUB
+# GITHUB
 
 ### Some numbers behind the code.
 
@@ -401,7 +401,7 @@ Experience helping others learn development and working together on technical pr
 
 ---
 
-# `07` — ACTIVITY
+# ACTIVITY
 
 ### Building, breaking, fixing, repeating.
 
@@ -418,7 +418,7 @@ Experience helping others learn development and working together on technical pr
 
 ---
 
-# `08` — NOW
+# NOW
 
 ### Currently focused on...
 
@@ -440,7 +440,7 @@ Experience helping others learn development and working together on technical pr
 
 ---
 
-# `09` — DEVELOPER PROFILE
+# DEVELOPER PROFILE
 
 ```yaml
 nauval:
@@ -477,7 +477,7 @@ nauval:
 
 ---
 
-# `10` — BEYOND CODE
+# BEYOND CODE
 
 <table>
 
@@ -522,7 +522,7 @@ ideas, and experiments.
 
 ---
 
-# `11` — CONNECT
+# CONNECT
 
 <div align="center">
 
