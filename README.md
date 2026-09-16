@@ -2,40 +2,39 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,30:0F172A,60:1E3A8A,82:2563EB,100:020617&text=NAUVAL%20FAWWAZ&fontColor=F8FAFC&fontSize=52&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20COMPUTER%20SCIENCE%20STUDENT&descAlignY=58&descSize=16&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=blur&height=460&color=0:020617,18:0B1120,38:172554,58:1D4ED8,76:38BDF8,100:020617&text=NAUVAL%20FAWWAZ&fontColor=F8FAFC&fontSize=58&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%2F%20COMPUTER%20SCIENCE&descAlignY=55&descSize=16&animation=fadeIn"
 />
 
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=760&height=40&lines=%3E+building+digital+products+from+ideas+_;%3E+web+%2F+backend+%2F+mobile+%2F+software+_;%3E+learning.+building.+shipping.+improving+_"
-    alt="Typing SVG"
-  />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=45&lines=%3E+building+digital+products+from+ideas+_;%3E+frontend+%2F+backend+%2F+mobile+_;%3E+learn.+build.+ship.+improve+_"
+/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/●%20AVAILABLE-2563EB?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/●%20AVAILABLE-2563EB?style=flat-square&labelColor=020617"/>
 &nbsp;
-<img src="https://img.shields.io/badge/TANGERANG%2C%20ID-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/TANGERANG%2C%20ID-0F172A?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/BINUSIAN%202030-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/BINUSIAN%202030-0F172A?style=flat-square"/>
 
 <br><br>
 
 <a href="https://nauvalfawwaz.netlify.app/">
-  <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20MY%20WORK-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="mailto:fawwaznauval20@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT%20ME-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+<br><br><br>
 
 <sub>
-React · Next.js · Laravel · Node.js · Python · Supabase
+REACT · NEXT.JS · LARAVEL · NODE.JS · PYTHON · SUPABASE
 </sub>
 
 <br><br>
@@ -60,13 +59,13 @@ I started exploring programming during junior high school and continued focusing
 
 Today, I spend most of my time building and exploring web applications, backend systems, mobile development, developer tools, and software engineering.
 
-I enjoy taking an idea from:
+I like taking an idea from:
 
 ```text
 idea → design → development → testing → deployment
 ```
 
-and turning it into something people can actually use.
+and turning it into something real.
 
 <br>
 
@@ -119,7 +118,7 @@ Exploring:
 
 # `02` — STACK
 
-### Technologies I use to turn ideas into products.
+### Technologies I use to build digital products.
 
 <div align="center">
 
@@ -163,7 +162,7 @@ Exploring:
 
 <br><br>
 
-### DEVELOPMENT TOOLS
+### TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify,wordpress&theme=dark"/>
 
@@ -191,13 +190,7 @@ A web application for creating modern and structured resumes with customizable l
 
 <br>
 
-**Stack**
-
-`React`
-
-`Tailwind CSS`
-
-`JavaScript`
+`React` `Tailwind CSS` `JavaScript`
 
 <br><br>
 
@@ -213,17 +206,11 @@ A web application for creating modern and structured resumes with customizable l
 
 **Collaborative coding tool**
 
-A development tool designed to allow multiple users to work with files through a shared server environment.
+A development tool designed to let multiple users work with files through a shared server environment.
 
 <br>
 
-**Stack**
-
-`Python`
-
-`FastAPI`
-
-`WebSocket`
+`Python` `FastAPI` `WebSocket`
 
 <br><br>
 
@@ -245,15 +232,7 @@ Production website developed for a real educational institution.
 
 <br>
 
-**Stack**
-
-`Laravel 12`
-
-`PHP`
-
-`MySQL`
-
-`Blade`
+`Laravel 12` `PHP` `MySQL` `Blade`
 
 <br><br>
 
@@ -273,13 +252,7 @@ Voting platform with secure tokens, candidate management, CSV import, automatic 
 
 <br>
 
-**Stack**
-
-`PHP`
-
-`MySQL`
-
-`JavaScript`
+`PHP` `MySQL` `JavaScript`
 
 <br><br>
 
@@ -295,7 +268,7 @@ Voting platform with secure tokens, candidate management, CSV import, automatic 
 
 # `04` — PROJECT LAB
 
-### Other things I've experimented with.
+### Other things I've built and experimented with.
 
 ```text
 workspace/
@@ -335,7 +308,7 @@ workspace/
 
 # `05` — EXPERIENCE
 
-### Development isn't the only side of tech I work with.
+### More than just writing code.
 
 <table>
 
@@ -345,7 +318,7 @@ workspace/
 
 ## IT SUPPORT
 
-Experience working with hardware, operating systems, networking, and technical troubleshooting.
+Experience with real-world hardware, networking, software, and troubleshooting.
 
 <br>
 
@@ -375,7 +348,7 @@ Experience working with hardware, operating systems, networking, and technical t
 
 ## TEACHING & COLLABORATION
 
-Experience helping others learn programming and working together on technical projects.
+Experience helping others learn development and working together on technical projects.
 
 <br>
 
@@ -409,19 +382,19 @@ Experience helping others learn programming and working together on technical pr
 
 <img
   width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=NauvalFawwaz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=2563EB&ring_color=2563EB"
+  src="https://github-readme-stats.vercel.app/api?username=NauvalFawwaz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=2563EB&ring_color=2563EB"
 />
 
 <img
   width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NauvalFawwaz&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NauvalFawwaz&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8"
 />
 
 <br><br>
 
 <img
   width="70%"
-  src="https://streak-stats.demolab.com?user=NauvalFawwaz&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=6E7681&currStreakNum=F0F6FC&sideNums=F0F6FC"
+  src="https://streak-stats.demolab.com?user=NauvalFawwaz&hide_border=true&background=0D1117&ring=2563EB&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=6E7681&currStreakNum=F0F6FC&sideNums=F0F6FC"
 />
 
 </div>
@@ -438,7 +411,7 @@ Experience helping others learn programming and working together on technical pr
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=NauvalFawwaz&bg_color=0D1117&color=8B949E&line=2563EB&point=60A5FA&area=true&area_color=172554&hide_border=true&radius=8"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=NauvalFawwaz&bg_color=0D1117&color=8B949E&line=2563EB&point=38BDF8&area=true&area_color=172554&hide_border=true&radius=8"
 />
 
 </div>
@@ -572,7 +545,7 @@ I'm open to opportunities, collaborations, and interesting projects around softw
 &nbsp;
 
 <a href="mailto:fawwaznauval20@gmail.com">
-<img src="https://img.shields.io/badge/SEND%20AN%20EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/SEND%20AN%20EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br><br>
@@ -599,7 +572,7 @@ Thanks for exploring my GitHub.
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,35:0F172A,65:1E3A8A,85:2563EB,100:020617"
+  src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:020617,20:0B1120,45:172554,70:1D4ED8,88:38BDF8,100:020617"
 />
 
 </div>
