@@ -53,7 +53,7 @@ REACT · NEXT.JS · LARAVEL · NODE.JS · PYTHON · SUPABASE
 
 ### Building things that are useful, clean, and actually work.
 
-I'm **Nauval Fawwaz**, a Full-Stack Developer and Computer Science student at **BINUS University**.
+I'm **Nauval Fawwaz Fadlian**, a Full-Stack Developer and Computer Science student at **BINUS University**.
 
 I started exploring programming during junior high school and continued focusing on **Software Engineering** in high school.
 
