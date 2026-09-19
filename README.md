@@ -2,40 +2,40 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=blur&height=460&color=0:020617,18:0B1120,38:172554,58:1D4ED8,76:38BDF8,100:020617&text=NAUVAL%20FAWWAZ&fontColor=F8FAFC&fontSize=58&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%2F%20COMPUTER%20SCIENCE&descAlignY=55&descSize=16&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=blur&height=420&color=0:020617,18:0B1120,38:172554,58:1D4ED8,76:38BDF8,100:020617&text=NAUVAL%20FAWWAZ&fontColor=F8FAFC&fontSize=58&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%2F%20COMPUTER%20SCIENCE&descAlignY=55&descSize=16&animation=fadeIn"
 />
 
 <a href="https://git.io/typing-svg">
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=45&lines=%3E+building+digital+products+from+ideas+_;%3E+frontend+%2F+backend+%2F+mobile+_;%3E+learn.+build.+ship.+improve+_"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=45&lines=%3E+full-stack+developer+building+useful+digital+products+_;%3E+web+%2F+backend+%2F+mobile+_"
 />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/●%20AVAILABLE-2563EB?style=flat-square&labelColor=020617"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-2563EB?style=flat-square&labelColor=020617"/>
 &nbsp;
-<img src="https://img.shields.io/badge/TANGERANG%2C%20ID-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/TANGERANG%2C%20INDONESIA-0F172A?style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/BINUSIAN%202030-0F172A?style=flat-square"/>
 
 <br><br>
 
 <a href="https://nauvalfawwaz.netlify.app/">
-<img src="https://img.shields.io/badge/VIEW%20MY%20WORK-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="mailto:fawwaznauval20@gmail.com">
-<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONTACT%20ME-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br><br>
+&nbsp;
 
-<sub>
-REACT · NEXT.JS · LARAVEL · NODE.JS · PYTHON · SUPABASE
-</sub>
+<a href="https://www.linkedin.com/in/nauval-fawwaz-560083298">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br><br>
 
@@ -43,138 +43,83 @@ REACT · NEXT.JS · LARAVEL · NODE.JS · PYTHON · SUPABASE
   src="https://komarev.com/ghpvc/?username=NauvalFawwaz&label=PROFILE%20VIEWS&style=flat-square&color=2563EB"
 />
 
-<br><br>
-
 </div>
 
 ---
 
-# ABOUT
+# About
 
-### Building things that are useful, clean, and actually work.
+### Building practical software from ideas to deployment.
 
 I'm **Nauval Fawwaz Fadlian**, a Full-Stack Developer and Computer Science student at **BINUS University**.
 
-I started exploring programming during junior high school and continued focusing on **Software Engineering** in high school.
+I started exploring programming during junior high school and later studied **Software Engineering** in vocational high school.
 
-Today, I spend most of my time building and exploring web applications, backend systems, mobile development, developer tools, and software engineering.
+I enjoy building web applications, backend systems, mobile applications, and developer tools with a focus on creating software that is **useful, maintainable, and easy to use**.
 
-I like taking an idea from:
+My development process usually looks like:
 
 ```text
-idea → design → development → testing → deployment
+Idea → Design → Development → Testing → Deployment → Improvement
 ```
 
-and turning it into something real.
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### CURRENTLY
-
-**Computer Science**  
-BINUS University
-
-Exploring:
-
-`Software Engineering`
-
-`System Design`
-
-`Backend Development`
-
-`Modern Web Technologies`
-
-</td>
-
-<td width="50%" valign="top">
-
-### FOCUS
-
-**Full-Stack Development**
-
-`Frontend`
-
-`Backend`
-
-`REST API`
-
-`Database`
-
-`Deployment`
-
-`Mobile`
-
-</td>
-
-</tr>
-</table>
+Currently, I'm improving my knowledge in **software engineering, backend development, system design, and modern web technologies**.
 
 ---
 
-# STACK
-
-### Technologies I use to build digital products.
+# Tech Stack
 
 <div align="center">
 
-<br>
-
-### LANGUAGES
+### Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,c,kotlin,dart,lua&theme=dark"/>
 
 <br><br>
 
-### FRONTEND
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark"/>
 
+<br>
+
+`GSAP` · `Framer Motion` · `Lenis`
+
 <br><br>
 
-`React` · `Next.js` · `Tailwind CSS` · `Bootstrap` · `GSAP` · `Framer Motion` · `Lenis`
-
-<br><br>
-
-### BACKEND
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask,supabase&theme=dark"/>
 
+<br>
+
+`REST API` · `Microsoft Graph` · `MSAL`
+
 <br><br>
 
-`Node.js` · `REST API` · `Laravel` · `Flask` · `Supabase` · `Microsoft Graph` · `MSAL`
-
-<br><br>
-
-### DATABASE
+### Database
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark"/>
 
 <br><br>
 
-### MOBILE
+### Mobile
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark"/>
 
 <br><br>
 
-### TOOLS
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify,wordpress&theme=dark"/>
-
-<br><br>
 
 </div>
 
 ---
 
-# SELECTED WORK
+# Selected Projects
 
-### A few things I've built.
+### Some of the projects I've built.
 
 <table>
 
@@ -186,16 +131,22 @@ Exploring:
 
 **ATS-friendly resume builder**
 
-A web application for creating modern and structured resumes with customizable layouts and PDF export.
+A modern web application that helps users create structured and professional resumes with customizable content and PDF export.
 
 <br>
 
-`React` `Tailwind CSS` `JavaScript`
+`React` `Tailwind CSS` `JavaScript` `Vite`
 
 <br><br>
 
 <a href="https://cvbuilder-rust.vercel.app/">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT%20↗-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/LIVE%20DEMO%20↗-2563EB?style=flat-square"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/NauvalFawwaz/cvbuilder">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-111827?style=flat-square&logo=github"/>
 </a>
 
 </td>
@@ -204,9 +155,9 @@ A web application for creating modern and structured resumes with customizable l
 
 ## Syncode
 
-**Collaborative coding tool**
+**Real-time collaborative development tool**
 
-A development tool designed to let multiple users work with files through a shared server environment.
+A developer tool designed to allow multiple users to work with files inside the same shared workspace through a server environment.
 
 <br>
 
@@ -214,7 +165,9 @@ A development tool designed to let multiple users work with files through a shar
 
 <br><br>
 
-<img src="https://img.shields.io/badge/REAL--TIME%20COLLABORATION-111827?style=flat-square"/>
+<a href="https://github.com/NauvalFawwaz/syncode">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-2563EB?style=flat-square&logo=github"/>
+</a>
 
 </td>
 
@@ -228,7 +181,7 @@ A development tool designed to let multiple users work with files through a shar
 
 **SMK Harapan Kesehatan Indonesia 3**
 
-Production website developed for a real educational institution.
+A production website developed for a real educational institution to provide school information through a modern web interface.
 
 <br>
 
@@ -248,7 +201,7 @@ Production website developed for a real educational institution.
 
 **Digital election platform**
 
-Voting platform with secure tokens, candidate management, CSV import, automatic vote calculation, and printable voting cards.
+A web-based voting system with token-based voting, candidate management, voter data import, automatic vote calculation, and printable voting cards.
 
 <br>
 
@@ -266,49 +219,9 @@ Voting platform with secure tokens, candidate management, CSV import, automatic 
 
 ---
 
-# PROJECT LAB
+# Experience
 
-### Other things I've built and experimented with.
-
-```text
-workspace/
-│
-├── 📚 Online Library System
-│   ├── Book Management
-│   ├── Member Management
-│   ├── Borrowing & Returns
-│   └── PHP + MySQL
-│
-├── 🐍 Flask Library
-│   ├── Authentication
-│   ├── Admin / User Roles
-│   ├── Book Management
-│   └── Python + Flask
-│
-├── 📱 Mobile Development
-│   ├── Flutter
-│   ├── Dart
-│   ├── Kotlin
-│   └── Android Studio
-│
-├── 🎮 Roblox Development
-│   ├── Luau Scripting
-│   ├── UI Systems
-│   ├── Game Systems
-│   └── World Design
-│
-└── 🌐 Web Experiments
-    ├── Responsive Interfaces
-    ├── Modern UI
-    ├── Animations
-    └── Deployment
-```
-
----
-
-# EXPERIENCE
-
-### More than just writing code.
+### Experience beyond writing code.
 
 <table>
 
@@ -316,9 +229,9 @@ workspace/
 
 <td width="50%" valign="top">
 
-## IT SUPPORT
+## IT Support
 
-Experience with real-world hardware, networking, software, and troubleshooting.
+Hands-on experience working with hardware, operating systems, networking, and technical troubleshooting.
 
 <br>
 
@@ -334,11 +247,11 @@ Experience with real-world hardware, networking, software, and troubleshooting.
 
 `Printer Configuration`
 
+`PC & Laptop Maintenance`
+
 `Hardware Troubleshooting`
 
 `Software Troubleshooting`
-
-`PC & Laptop Maintenance`
 
 `CCTV`
 
@@ -346,9 +259,9 @@ Experience with real-world hardware, networking, software, and troubleshooting.
 
 <td width="50%" valign="top">
 
-## TEACHING & COLLABORATION
+## Teaching & Collaboration
 
-Experience helping others learn development and working together on technical projects.
+Experience teaching programming fundamentals and collaborating on technical projects.
 
 <br>
 
@@ -358,11 +271,13 @@ Experience helping others learn development and working together on technical pr
 
 `JavaScript`
 
-`Programming Basics`
+`Programming Fundamentals`
 
 `Problem Solving`
 
 `Team Collaboration`
+
+`Technical Communication`
 
 </td>
 
@@ -372,9 +287,9 @@ Experience helping others learn development and working together on technical pr
 
 ---
 
-# GITHUB
+# GitHub
 
-### Some numbers behind the code.
+### A snapshot of my GitHub activity.
 
 <div align="center">
 
@@ -401,167 +316,44 @@ Experience helping others learn development and working together on technical pr
 
 ---
 
-# ACTIVITY
-
-### Building, breaking, fixing, repeating.
+# Connect
 
 <div align="center">
 
 <br>
 
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=NauvalFawwaz&bg_color=0D1117&color=8B949E&line=2563EB&point=38BDF8&area=true&area_color=172554&hide_border=true&radius=8"
-/>
+## Let's build something useful.
 
-</div>
-
----
-
-# NOW
-
-### Currently focused on...
-
-```diff
-+ Building better full-stack applications
-
-+ Improving software architecture
-
-+ Exploring scalable backend systems
-
-+ Writing cleaner and maintainable code
-
-+ Creating better user experiences
-
-+ Building projects that solve actual problems
-
-+ Shipping ideas instead of leaving them unfinished
-```
-
----
-
-# DEVELOPER PROFILE
-
-```yaml
-nauval:
-
-  role:
-    Full-Stack Developer
-
-  education:
-    Computer Science @ BINUS University
-
-  location:
-    Tangerang, Indonesia
-
-  focus:
-    - Full-Stack Development
-    - Backend Engineering
-    - Software Development
-    - Mobile Development
-    - Developer Tools
-
-  currently:
-    learning: true
-    building: true
-    exploring: true
-
-  available_for:
-    - Opportunities
-    - Collaboration
-    - Interesting Projects
-
-  philosophy:
-    "Learn → Build → Ship → Improve"
-```
-
----
-
-# BEYOND CODE
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-## 🏸
-
-### BADMINTON
-
-Taking a break from  
-the keyboard.
-
-</td>
-
-<td align="center" width="33%">
-
-## 🎮
-
-### GAMING
-
-Exploring systems,  
-mechanics, and worlds.
-
-</td>
-
-<td align="center" width="33%">
-
-## ⚡
-
-### TECHNOLOGY
-
-Trying tools,  
-ideas, and experiments.
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# CONNECT
-
-<div align="center">
-
-<br>
-
-## Have an idea?
-
-### Let's turn it into something real.
-
-<br>
-
-I'm open to opportunities, collaborations, and interesting projects around software and technology.
+I'm open to **software development opportunities, collaborations, and interesting technical projects**.
 
 <br><br>
 
 <a href="https://nauvalfawwaz.netlify.app/">
-<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/NauvalFawwaz">
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/nauval-fawwaz-560083298">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="mailto:fawwaznauval20@gmail.com">
-<img src="https://img.shields.io/badge/SEND%20AN%20EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br><br>
 
-```text
-> learn
-> build
-> ship
-> improve
-> repeat_
-```
-
-<br>
-
 <sub>
-Thanks for exploring my GitHub.
+Learn. Build. Ship. Improve.
 </sub>
 
 <br><br>
@@ -572,7 +364,7 @@ Thanks for exploring my GitHub.
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:020617,20:0B1120,45:172554,70:1D4ED8,88:38BDF8,100:020617"
+  src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:020617,20:0B1120,45:172554,70:1D4ED8,88:38BDF8,100:020617"
 />
 
 </div>
