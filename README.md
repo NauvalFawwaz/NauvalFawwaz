@@ -33,7 +33,7 @@
 
 &nbsp;
 
-<a href="[www.linkedin.com/in/nauval-fawwaz-fadlian-560083298](https://www.linkedin.com/in/nauval-fawwaz-fadlian-560083298/)">
+<a href="www.linkedin.com/in/nauval-fawwaz-fadlian-560083298">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
