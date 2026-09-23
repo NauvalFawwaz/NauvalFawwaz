@@ -1,210 +1,189 @@
-# 🎮 Nauval Fawwaz
-
-```txt
-╔════════════════════════════════════════════╗
-║           PLAYER PROFILE LOADED            ║
-╠════════════════════════════════════════════╣
-║ Username   : NauvalFawwaz                  ║
-║ Class      : Full-Stack Developer          ║
-║ Specialty  : Web Development               ║
-║ Side Quest : Game Development              ║
-║ Status     : Learning • Building • Grinding║
-╚════════════════════════════════════════════╝
-```
-
 <div align="center">
 
-### `WELCOME, PLAYER.`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:10151c,100:111827&text=NAUVAL%20FAWWAZ&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20COMPUTER%20SCIENCE&descAlignY=57&descSize=16&animation=fadeIn"/>
 
-**Computer Science Student • Full-Stack Developer • Tech Enthusiast**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=8BE9FD&center=true&vCenter=true&width=650&lines=%3E+LOADING+PROFILE...;%3E+LOADING+SKILLS...;%3E+LOADING+PROJECTS...;%3E+WELCOME+TO+MY+GITHUB." />
 
-Building websites, applications, experiments, and occasionally breaking things just to figure out how to fix them again.
+<br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-PLAY_NOW-111111?style=for-the-badge)](https://nauvalfawwaz.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-NauvalFawwaz-111111?style=for-the-badge&logo=github)](https://github.com/NauvalFawwaz)
+`FULL-STACK DEVELOPER`　•　`INDONESIA`　•　`COMPUTER SCIENCE`
 
 </div>
 
----
+<br>
 
-## 👤 PLAYER INFO
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## `> PLAYER PROFILE`
 
 ```yaml
 name: Nauval Fawwaz
 role: Full-Stack Developer
-education: Computer Science @ BINUS University
+education: Computer Science
+university: BINUS University
 location: Indonesia
-current_quest: Becoming a better software engineer
-interests:
-  - Web Development
-  - Mobile Development
-  - Game Development
-  - Artificial Intelligence
-  - Automation
-  - Software Engineering
+status: Building & Learning
 ```
 
----
+</td>
 
-## ⚔️ SKILL TREE
+<td width="45%" valign="top">
 
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=flat-square&logo=tailwindcss)
-![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel)
-
-### 🧠 Programming
-
-![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
-![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin)
-![Dart](https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart)
-![Lua](https://img.shields.io/badge/Luau-111111?style=flat-square&logo=lua)
-
-### 🛠️ Equipment
-
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql)
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter)
-
----
-
-## 🗺️ QUEST LOG
-
-### 🟢 MAIN QUEST
-> Become a professional Full-Stack Software Engineer and build products that are actually useful.
-
-### 🟡 ACTIVE QUESTS
-
-- `[■■■■■■■□□□]` Improving **React & Next.js**
-- `[■■■■■■□□□□]` Learning **C Programming**
-- `[■■■■■■■□□□]` Building **Full-Stack Projects**
-- `[■■■■■□□□□□]` Exploring **Mobile Development**
-- `[■■■■□□□□□□]` Exploring **Game Development**
-- `[■■■■■■□□□□]` Improving **English Communication**
-
-### 🔒 LOCKED QUESTS
-
-- Cloud Architecture
-- Advanced DevOps
-- Machine Learning
-- Large Scale System Design
-- Professional Game Development
-
----
-
-## 🏆 FEATURED MISSIONS
-
-### 🏫 SMK Harapan Kesehatan Indonesia 3
-**Laravel • MySQL • JavaScript • Bootstrap**
-
-A production school website developed using Laravel with a database-driven backend.
-
-### 🗳️ E-Voting System
-**PHP • MySQL • JavaScript**
-
-Web-based voting system designed to manage digital elections efficiently.
-
-### 📚 Online Library
-**PHP • MySQL**
-
-Library management system for managing books, users, and borrowing activities.
-
-### 🐍 Flask Library System
-**Python • Flask**
-
-A library management application built while exploring backend development with Python.
-
-### 📄 CV Builder
-**React • Tailwind CSS**
-
-Interactive CV builder that allows users to create and preview resumes directly from the browser.
-
-> More missions available in my repositories ↓
-
----
-
-## 📊 PLAYER STATS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NauvalFawwaz&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NauvalFawwaz&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 CURRENT STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=NauvalFawwaz&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION BOSS
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/NauvalFawwaz/NauvalFawwaz/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 💬 NPC DIALOGUE
-
-```js
-const nauval = {
-  code: ["JavaScript", "TypeScript", "PHP", "Python", "C", "Kotlin", "Dart"],
-  technologies: ["React", "Next.js", "Laravel", "Flutter", "Supabase"],
-  interests: ["Web", "Mobile", "AI", "Automation", "Games"],
-
-  currentMission() {
-    return "Keep learning. Keep building. Never stop grinding.";
-  }
-};
-```
-
----
-
-## 🕹️ GAME RULES
+## `> CURRENT QUEST`
 
 ```txt
-01. Learn something new.
-02. Build something with it.
-03. Break it.
-04. Debug it.
-05. Improve it.
-06. Push it to GitHub.
-07. Repeat.
+Become a better Software Engineer
+
+├─ Build useful products
+├─ Improve full-stack skills
+├─ Explore mobile development
+├─ Learn game development
+└─ Keep learning every day
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📡 CONNECT WITH PLAYER
+<div align="center">
+
+## `// LOADOUT`
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,flask,mysql,postgres,supabase&theme=dark" />
+
+### Mobile & Programming
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,c&theme=dark" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,npm,vite&theme=dark" />
+
+</div>
+
+---
+
+## `// QUEST LOG`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Currently Building
+
+```txt
+React & Next.js
+Laravel
+Full-Stack Projects
+Mobile Development
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### Exploring
+
+```txt
+C Programming
+Flutter
+Game Development
+Cloud
+System Design
+AI Engineering
+```
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit_Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nauvalfawwaz.netlify.app/)
+# `SELECT MISSION`
 
-[![GitHub](https://img.shields.io/badge/GITHUB-Follow-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NauvalFawwaz)
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🏫 School Website
+
+**SMK Harapan Kesehatan Indonesia 3**
+
+`Laravel` `MySQL` `JavaScript`
+
+Production school website with database-driven content and administrative functionality.
+
+<a href="http://smkharindo3.sch.id/">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📄 CV Builder
+
+Interactive resume builder created using modern frontend technologies.
+
+`React` `Tailwind CSS`
+
+<a href="https://cvbuilder-rust.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-111827?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🗳️ E-Voting System
+
+Digital voting platform for student organization elections.
+
+`PHP` `MySQL` `JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📚 Library Systems
+
+Library management applications built while exploring different backend technologies.
+
+`PHP` `Python` `Flask` `MySQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `// PLAYER STATS`
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NauvalFawwaz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8be9fd&icon_color=8be9fd&text_color=c9d1d9&ring_color=8be9fd" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NauvalFawwaz&layout=compact&hide_border=true&bg_color=0d1117&title_color=8be9fd&text_color=c9d1d9" />
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=NauvalFawwaz&hide_border=true&background=0D1117&stroke=30363D&ring=8BE9FD&fire=8BE9FD&currStreakLabel=8BE9FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 </div>
 
@@ -212,16 +191,62 @@ const nauval = {
 
 <div align="center">
 
-```txt
-╔══════════════════════════════════════╗
-║             SAVE POINT               ║
-║                                      ║
-║   Thanks for visiting my profile.    ║
-║                                      ║
-║       [ CONTINUE ]   [ EXIT ]        ║
-╚══════════════════════════════════════╝
+## `// ACTIVITY MAP`
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NauvalFawwaz&bg_color=0d1117&color=8be9fd&line=8be9fd&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## `// SYSTEM`
+
+```console
+nauval@github:~$ whoami
+Nauval Fawwaz
+
+nauval@github:~$ current-quest
+Building useful software.
+
+nauval@github:~$ philosophy
+Learn → Build → Break → Debug → Improve → Repeat
+
+nauval@github:~$ status
+ONLINE
 ```
 
-### `PRESS ⭐ TO SUPPORT THE PLAYER`
+---
+
+<div align="center">
+
+## `CONTINUE?`
+
+<a href="https://nauvalfawwaz.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NauvalFawwaz">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+```txt
+╔══════════════════════════════════════════════╗
+║                                              ║
+║                GAME SAVED                    ║
+║                                              ║
+║       Thanks for visiting my profile.        ║
+║                                              ║
+║          [ CONTINUE ]     [ EXIT ]           ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+<sub>© Nauval Fawwaz</sub>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050505,50:10151c,100:111827"/>
 
 </div>
