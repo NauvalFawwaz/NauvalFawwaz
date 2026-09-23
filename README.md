@@ -50,10 +50,11 @@
 <br>
 <a name="quests"></a>
 
-![Quest board featuring SMK Harapan Kesehatan Indonesia 3, CV Builder, E-Voting OSIS, Perpustakaan Online, and Reminderly / NARA](assets/quest-board.svg)
+<h2 align="center">QUEST LOG / SELECT A PROJECT</h2>
+<p align="center"><samp>Click a project card to open its journal. Click again to close.</samp></p>
 
 <details>
-<summary><b>SMK Harapan Kesehatan Indonesia 3</b> · Open journal</summary>
+<summary><img src="assets/quest-smk.svg" width="96%" alt="SMK Harapan Kesehatan Indonesia 3: click to open or close project details"></summary>
 
 A web project for **SMK Harapan Kesehatan Indonesia 3**.
 
@@ -64,7 +65,7 @@ A web project for **SMK Harapan Kesehatan Indonesia 3**.
 </details>
 
 <details>
-<summary><b>CV Builder</b> · Open journal</summary>
+<summary><img src="assets/quest-cv.svg" width="96%" alt="CV Builder: click to open or close project details"></summary>
 
 A CV-building application.
 
@@ -75,7 +76,7 @@ A CV-building application.
 </details>
 
 <details>
-<summary><b>E-Voting OSIS</b> · Open journal</summary>
+<summary><img src="assets/quest-voting.svg" width="96%" alt="E-Voting OSIS: click to open or close project details"></summary>
 
 An electronic voting project for OSIS elections.
 
@@ -86,7 +87,7 @@ An electronic voting project for OSIS elections.
 </details>
 
 <details>
-<summary><b>Perpustakaan Online</b> · Open journal</summary>
+<summary><img src="assets/quest-library.svg" width="96%" alt="Perpustakaan Online: click to open or close project details"></summary>
 
 An online library project built with Flask.
 
@@ -97,7 +98,7 @@ An online library project built with Flask.
 </details>
 
 <details>
-<summary><b>Reminderly / NARA</b> · Open journal</summary>
+<summary><img src="assets/quest-nara.svg" width="96%" alt="Reminderly / NARA: click to open or close project details"></summary>
 
 **Reminderly / NARA**, part of my highlighted project collection.
 
